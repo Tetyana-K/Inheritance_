@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<OneForAll>
+  <Dish id="1" name="Pizza" price="65" />
+  <Dish id="2" name="FriedPotato" price="30" />
+  <Dish id="3" name="Burger" price="26" />
+  <Dish id="4" name="Pasta" price="44" />
+  <Dish id="5" name="FruitSalad" price="25" />
+  <Dish id="6" name="Sushi" price="220" />
+  <Dish id="7" name="Florette" price="500" />
+  <Dish id="8" name="BlackTea" price="9" />
+  <Dish id="9" name="Juice" price="20" />
+  <Dish id="10" name="Pepsi" price="25" />
+</OneForAll>
